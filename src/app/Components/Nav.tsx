@@ -71,11 +71,7 @@ export default function Nav() {
                   Home
                 </Link></Button>
              
-                <Button className="header-nav">
-                  <a href="https://nextpay-docs.streamlit.app/" target="_blank" rel="noopener noreferrer">
-                    Docs
-                  </a>
-                </Button>
+                
               </div>
               <div style={{display:"flex" ,justifyContent:"center" , alignContent:"center" , alignItems:"center" , marginRight:"3%"}}>
                 <Link href="/anon-verify">

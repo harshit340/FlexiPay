@@ -1,9 +1,6 @@
 import React from 'react'
 import '../style/Card.css'
-import Checker from "../../assets/icons8-datasets-64.png"
-import identity from "../../assets/icons8-checked-identification-documents-64.png"
-import eighteen from "../../assets/icons8-18-100.png"
-import { Image } from 'antd'
+
 
 import AnonLogin from './AnonLogin'
 import MeteorCard2 from './meteorCard2'
