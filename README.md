@@ -1,12 +1,3 @@
-# Contributing to FlexiPay
-
-For better understanding of the project, please refer to the [FlexiPay Documentation](https://FlexiPay-docs.streamlit.app/). This is the documentation which we have hosted for our product for better usage.
-
-## Video Demonstration
-   You can watch the video demonstration of the project by clicking on the image below.
-
-   [![Watch the video](doc-assets/cross-blockchain/front1.png)](https://youtu.be/lpoVuFI_0yQ)
-
 ## Getting Started with FlexiPay 🚀
 
 Once you have set up the development environment, you can start exploring and contributing to the FlexiPay platform. Here are a few key features to get you started:
@@ -66,5 +57,5 @@ So, what are you waiting for? Start your FlexiPay contribution journey today! �
      ```
 
 7. **Submit a Pull Request**
-   - Go to the [FlexiPay GitHub repository](https://github.com/FlexiPay/FlexiPay) and create a new pull request from your forked repository and branch.
+   - create a new pull request from your forked repository and branch.
    - Provide a clear and concise description of your changes in the pull request. 🔄
