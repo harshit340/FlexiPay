@@ -4,7 +4,7 @@ import '../style/NavBar.css'; // Import the external CSS file
 import { SideBar } from './Drawer';
 import { useDispatch, useSelector } from 'react-redux';
 import { RootState } from "@/provider/redux/store";
-import Logo from "../../assets/image-removebg-preview.png"
+import Logo from "../../assets/logog.jpg"
 import Link from 'next/link';
 import { Button, Image } from 'antd';
 
@@ -31,7 +31,7 @@ export default function Nav() {
           <div className="atmax">
             <div className="nav-ini">
               <div className="left-nav">
-              <Image preview={false} src={Logo.src} width={100} ></Image>
+              <Image preview={false} src={Logo.src} width={120} ></Image>
                 <Button className="header-nav" ><Link href="/">
                   Home
                 </Link></Button>
@@ -66,7 +66,7 @@ export default function Nav() {
           <div className="atmax">
             <div className="nav-ini">
               <div className="left-nav">
-              <Image preview={false} src={Logo.src} width={100} ></Image>
+              <Image preview={false} src={Logo.src} width={120} ></Image>
                 <Button className="header-nav"><Link href="/">
                   Home
                 </Link></Button>
@@ -85,7 +85,7 @@ export default function Nav() {
 
           <div className="atmin">
             <div className="nav-ini">
-            <Image preview={false} src={Logo.src} width={100} ></Image>
+            <Image preview={false} src={Logo.src} width={120} ></Image>
               <SideBar />
             </div>
           </div>
@@ -96,22 +96,16 @@ export default function Nav() {
           <div className="atmax">
             <div className="nav-ini">
               <nav className="left-nav">
-              <Image preview={false} src={Logo.src} width={100} ></Image>
-                <Button className="header-nav"> <Link href="/">
-                  Home
-                </Link></Button>
-                <Button className="header-nav">
-                  <a href="https://nextpay-docs.streamlit.app/" target="_blank" rel="noopener noreferrer">
-                    Docs
-                  </a>
-                </Button>
+              <Image preview={false} src={Logo.src} width={120} ></Image>
+                
+               
               </nav>
             </div>
           </div>
 
           <div className="atmin">
             <div className="nav-ini">
-            <Image preview={false} src={Logo.src} width={100} ></Image>
+            <Image preview={false} src={Logo.src} width={120} ></Image>
               <SideBar />
             </div>
           </div>
