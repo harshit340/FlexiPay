@@ -47,7 +47,7 @@ export default function Home() {
             <Nav />
             <div style={{ display: "flex", flexDirection: "column", alignItems: "center", justifyContent: "center", marginTop: "10%" }}>
                 <div className="hero BigText text-center mb-2">
-                    <h1 className="text-s mb-[-20px]">NextPay: Mutli-EVM Transactions</h1>
+                    <h1 className="text-s mb-[-20px]">FlexiPay: Mutli-EVM Transactions</h1>
                     <h1 className="text-s">with Zero Proofs</h1>
                     <h1 className="text2 mt-4" style={{fontWeight:"500"}}>
                     Seamless Ethereum transfers across multiple blockchains with anonymous Aadhaar-based KYC
@@ -81,7 +81,7 @@ export default function Home() {
                     <h1 className='text-section'>How It Works!</h1>
                 </div>
                 <div style={{display:"flex" , justifyContent:"center" ,color:"gainsboro"}}>
-                    <h1 className='text2'>Payu: Effortless multi-chain Ethereum transfers with secure KYC and real-time alerts</h1>
+                    <h1 className='text2'>FlexiPay: Effortless multi-chain Ethereum transfers with secure KYC and real-time alerts</h1>
                 </div>
                 <div>
 

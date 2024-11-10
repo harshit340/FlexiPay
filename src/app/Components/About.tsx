@@ -1,7 +1,6 @@
 /* eslint-disable jsx-a11y/alt-text */
 import React from 'react'
 import "../style/About.css"
-import sound from "../../assets/advertisement.png"
 import verify from "../../assets/icons8-blockchain-98.png"
 import connnecton from "../../assets/icons8-blockchain-60.png"
 import phone from "../../assets/icons8-speaker-96.png"
@@ -71,7 +70,3 @@ export default function About() {
     )
 }
 
-
- {/*  <Image src={sound.src} width={150} height={150}></Image>
-                    <p>Lorem idivsum dolor sit amet, consectetuer adidiviscing elit. Aenean commodo
-                        ligula eget dolor. Aenean massa</p> */}

@@ -194,7 +194,7 @@ export default function TransferCard() {
         </div>
         <div>
           <div style={{fontSize: 20}}>
-          Our application, NextPay, currently supports multiple EVM-based blockchains across various networks.
+          Our application, FlexiPay, currently supports multiple EVM-based blockchains across various networks.
           It also synchronizes with MetaMask to seamlessly track changes in accounts and different blockchains.</div>
         </div>
       </div>
